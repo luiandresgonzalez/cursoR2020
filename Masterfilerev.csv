@@ -1,0 +1,265 @@
+Subject ,Name,Order,PosNeg,Period,Scent,Interactduration,Interact1zero,Subject2,Period2,Rest,Repetitive,Explore,Sleep,Vocal,Stress,Alert,Interacttotal
+1,Alexi,EBC,N,Unscented toys,Control,0,0,1,No toys,222.9,53,7.4,103.6,13.2,19,386.5,NA
+2,Apples,ECB,N,Unscented toys,Control,40,1,2,No toys,186.1,172.9,7.2,0,327.4,39,2.5,NA
+3,Bambam,EBC,N,Unscented toys,Control,5,1,3,No toys,488,193.5,0,0,231.2,24,40,NA
+4,Bambi,BEC,P,Unscented toys,Control,11,1,4,No toys,142.7,75.4,11.8,115.7,127.3,17,87.8,NA
+5,Barney,CEB,N,Unscented toys,Control,15,1,5,No toys,173.2,0,54.8,0,105.5,28,3.7,NA
+6,Barron,EBC,N,Unscented toys,Control,2,1,6,No toys,301.5,182.7,0,116.9,49.9,21,0,NA
+7,Bella,CBE,N,Unscented toys,Control,19,1,7,No toys,0,166.3,0,0,145.2,30,0.7,NA
+8,Ben,BEC,P,Unscented toys,Control,31,1,8,No toys,0,0,42.1,0,6.5,6,195.6,NA
+9,Blossom,ECB,N,Unscented toys,Control,0,0,9,No toys,288.8,4.3,21.6,34.3,94.6,11,46.2,NA
+10,Boily,EBC,N,Unscented toys,Control,0,0,10,No toys,0,39.9,17.7,0,46.4,14,181.5,NA
+11,Bramble,BCE,P,Unscented toys,Control,7,1,11,No toys,77.7,73.3,12.9,0,136.6,8,27.1,NA
+12,Buttons,EBC,N,Unscented toys,Control,5,1,12,No toys,91.7,17,4.9,7.5,107.1,27,0,NA
+13,Charlie,CBE,N,Unscented toys,Control,0,0,13,No toys,0,28.4,5.3,0,28.9,11,134.1,NA
+14,Cooper,BCE,P,Unscented toys,Control,5,1,14,No toys,193,175.2,0,200.8,174.8,14,8.4,NA
+15,Copper,ECB,N,Unscented toys,Control,15,1,15,No toys,0,113,11.8,0,134.6,9,24.9,NA
+16,Diesel,BCE,P,Unscented toys,Control,3,1,16,No toys,112.7,90.8,60.5,0,115.8,9,9.2,NA
+17,Foster,BEC,P,Unscented toys,Control,1,1,17,No toys,0,398.2,15.9,0,0,2,78.5,NA
+18,Jeb,ECB,N,Unscented toys,Control,0,0,18,No toys,30,0,6.7,0,49.8,10,181.2,NA
+19,Laddy,CEB,N,Unscented toys,Control,14,1,19,No toys,0,297.7,11,0,201.5,9,14,NA
+20,Lexi,BCE,P,Unscented toys,Control,1,1,20,No toys,0,26.6,0,0,2.5,2,14.8,NA
+21,Maisy,EBC,N,Unscented toys,Control,4,1,21,No toys,0,0,16.7,0,62.4,6,111,NA
+22,Moon,ECB,N,Unscented toys,Control,0,0,22,No toys,311.8,26.6,3.6,0,68,10,454.4,NA
+23,Mors,CEB,N,Unscented toys,Control,2,1,23,No toys,0,57.3,0,0,591.5,11,156.1,NA
+24,Niki,BEC,P,Unscented toys,Control,0,0,24,No toys,36.9,100,0,0,189.4,2,67.4,NA
+25,Olli,BCE,P,Unscented toys,Control,2,1,25,No toys,0,48,0,62.7,210.2,7,0,NA
+26,Pickles,ECB,N,Unscented toys,Control,1,1,26,No toys,102.1,12.1,102.4,121.5,289.5,4,198.4,NA
+27,Ricky,CBE,N,Unscented toys,Control,28,1,27,No toys,101.3,239,44.8,0,197.7,5,110.1,NA
+28,Rocky,BEC,P,Unscented toys,Control,0,0,28,No toys,0,307,99.9,0,717.6,2,170,NA
+29,Rolly,BEC,P,Unscented toys,Control,5,1,29,No toys,0,0,0,0,207.9,9,0,NA
+30,Russel,BEC,P,Unscented toys,Control,2,1,30,No toys,0,634.8,102.3,0,506.3,1,98.1,NA
+31,Rusty,ECB,N,Unscented toys,Control,0,0,31,No toys,75,0,46,0,99.9,9,148.4,NA
+32,Samson,CEB,N,Unscented toys,Control,8,1,32,No toys,81.4,0,105.7,82.1,607.2,6,123.5,NA
+33,Sandy,BCE,P,Unscented toys,Control,56,1,33,No toys,27.9,885.3,161.7,91.1,557.7,0,148.5,NA
+34,Shaddow,ECB,N,Unscented toys,Control,0,0,34,No toys,368.5,0,80.4,0,400.1,8,222.2,NA
+35,Snow,CBE,N,Unscented toys,Control,0,0,35,No toys,320.1,0,71.1,90.1,188.5,NA,75.3,NA
+36,Star,BCE,P,Unscented toys,Control,19,1,36,No toys,0,810.4,90.9,0,724.3,12,0,NA
+37,Stella,BCE,P,Unscented toys,Control,134,1,37,No toys,368.5,214,0,0,526.6,3,0,NA
+38,Sunny,EBC,N,Unscented toys,Control,26,1,38,No toys,343.5,0,38.7,105.1,133,3,168,NA
+39,Suzie,BCE,P,Unscented toys,Control,22,1,39,No toys,0,332.5,102.4,0,603.6,6,32.6,NA
+40,Timmy,ECB,N,Unscented toys,Control,3,1,40,No toys,0,668.8,0,0,461.1,5,91,NA
+41,Tubs,CEB,N,Unscented toys,Control,2,1,41,No toys,236,0,,465.5,50.1,0,125.7,NA
+42,Tyson,BCE,P,Unscented toys,Control,46,1,42,No toys,49.2,0,0,81,50.1,4,52.7,NA
+43,Walter,ECB,N,Unscented toys,Control,23,1,43,No toys,0,107.2,90.7,0,NA,5,28.5,NA
+44,Zara,CEB,N,Unscented toys,Control,5,1,44,No toys,170.9,0,16.7,390.4,NA,1,0,NA
+1,Alexi,EBC,N,Unscented toys,Lavender,8,1,1,Unscented toys,166,102,228.1,0,5.3,25,128.2,9.77624
+2,Apples,ECB,N,Unscented toys,Lavender,34,1,2,Unscented toys,223.8,122.5,78.8,1.4,151,23,30.4,100.3982
+3,Bambam,EBC,N,Unscented toys,Lavender,11,1,3,Unscented toys,275.5,280.8,4.3,0,217,9,9.3,16.31599
+4,Bambi,BEC,P,Unscented toys,Lavender,17,1,4,Unscented toys,260.3,45.1,0,168,14.8,18,0,35.90182
+5,Barney,CEB,N,Unscented toys,Lavender,8,1,5,Unscented toys,112.9,0,64,0,502.1,15,0,51.8174
+6,Barron,EBC,N,Unscented toys,Lavender,9,1,6,Unscented toys,287.9,126.5,0,0,19.2,6,0,18.61823
+7,Bella,CBE,N,Unscented toys,Lavender,0,0,7,Unscented toys,0,283.4,4.5,0,382.3,9,0,33.5996
+8,Ben,BEC,P,Unscented toys,Lavender,27,1,8,Unscented toys,27.2,0,117.8,0,8.9,7,123.4,72.2708
+9,Blossom,ECB,N,Unscented toys,Lavender,0,0,9,Unscented toys,139.8,24.9,30,0,92.3,21,102.6,0
+10,Boily,EBC,N,Unscented toys,Lavender,4,1,10,Unscented toys,0,5.7,21.6,0,32.9,7,443,4.03729
+11,Bramble,BCE,P,Unscented toys,Lavender,11,1,11,Unscented toys,0,152.9,66.4,0,250.2,8,73.2,21.82134
+12,Buttons,EBC,N,Unscented toys,Lavender,3,1,12,Unscented toys,118,6.9,13.9,74.2,36.7,29,28.4,10.54366
+13,Charlie,CBE,N,Unscented toys,Lavender,2,1,13,Unscented toys,0,0,14.7,0,32.1,11,107.9,3.80372
+14,Cooper,BCE,P,Unscented toys,Lavender,6,1,14,Unscented toys,361.7,35.5,22.4,0,41.5,17,0,22.95579
+15,Copper,ECB,N,Unscented toys,Lavender,11,1,15,Unscented toys,0,141.8,20.9,0,184.2,10,22.7,45.1108
+16,Diesel,BCE,P,Unscented toys,Lavender,4,1,16,Unscented toys,0,49,10,0,180.5,10,0,10.5103
+17,Foster,BEC,P,Unscented toys,Lavender,1,1,17,Unscented toys,0,473,13,0,0,0,1.8,7.37389
+18,Jeb,ECB,N,Unscented toys,Lavender,0,0,18,Unscented toys,99.1,0,52.2,0,63.2,0,77.6,0
+19,Laddy,CEB,N,Unscented toys,Lavender,2,1,19,Unscented toys,0,289.6,0,0,32.8,5,1.1,15.5819
+20,Lexi,BCE,P,Unscented toys,Lavender,0,0,20,Unscented toys,0,0,8.8,0,0,2,27.8,1.468104
+21,Maisy,EBC,N,Unscented toys,Lavender,10,1,21,Unscented toys,2.5,0,11.6,0,339.5,3,27.7,14.24725
+22,Moon,ECB,N,Unscented toys,Lavender,0,0,22,Unscented toys,56.1,30,7.6,0,36.1,4,401.1,5.37193
+23,Mors,CEB,N,Unscented toys,Lavender,6,1,23,Unscented toys,0,45.9,0,0,155.9,8,236.4,13.07948
+24,Niki,BEC,P,Unscented toys,Lavender,0,0,24,Unscented toys,43.6,80.4,0,0,217.7,1,41,0
+25,Olli,BCE,P,Unscented toys,Lavender,2,1,25,Unscented toys,379.1,7.1,0,84.4,236.5,1,0,5.37193
+26,Pickles,ECB,N,Unscented toys,Lavender,3,1,26,Unscented toys,110.4,0,104.4,86.8,46.9,5,116.6,4.070656
+27,Ricky,CBE,N,Unscented toys,Lavender,40,1,27,Unscented toys,135.6,321.6,42.9,0,204.1,3,169.4,89.9214
+28,Rocky,BEC,P,Unscented toys,Lavender,0,0,28,Unscented toys,0,312.1,98.2,0,775,2,230.9,0
+29,Rolly,BEC,P,Unscented toys,Lavender,0,0,29,Unscented toys,0,0,0,0,291.3,8,0,10.04317
+30,Russel,BEC,P,Unscented toys,Lavender,1,1,30,Unscented toys,0,672.9,100.1,0,793.2,0,80.4,3.570162
+31,Rusty,ECB,N,Unscented toys,Lavender,0,0,31,Unscented toys,103.6,0,0,0,151.9,9,0,0
+32,Samson,CEB,N,Unscented toys,Lavender,0,0,32,Unscented toys,95.9,0,154.5,95.7,478.5,6,140.6,15.13998
+33,Sandy,BCE,P,Unscented toys,Lavender,22,1,33,Unscented toys,49.6,636.6,144.6,91,478.5,3,151.4,108.206
+34,Shaddow,ECB,N,Unscented toys,Lavender,0,0,34,Unscented toys,0,98.5,48.4,0,401.1,8,209.6,0
+35,Snow,CBE,N,Unscented toys,Lavender,0,0,35,Unscented toys,346.6,0,51.6,68.2,513.2,NA,38,0
+36,Star,BCE,P,Unscented toys,Lavender,8,1,36,Unscented toys,0,745.6,75.2,0,645.8,12,109.9,37.60351
+37,Stella,BCE,P,Unscented toys,Lavender,121,1,37,Unscented toys,380,157.5,0,0,449.1,3,0,392.218
+38,Sunny,EBC,N,Unscented toys,Lavender,21,1,38,Unscented toys,498.7,0,99.8,0,5,2,90.8,70.3022
+39,Suzie,BCE,P,Unscented toys,Lavender,0,0,39,Unscented toys,0,296.4,22.6,0,230,4,38.4,37.3032
+40,Timmy,ECB,N,Unscented toys,Lavender,2,1,40,Unscented toys,0,386.3,0,0,488.9,6,29.4,6.63984
+41,Tubs,CEB,N,Unscented toys,Lavender,3,1,41,Unscented toys,234.6,0,,565,68.7,0,73.2,10.1099
+42,Tyson,BCE,P,Unscented toys,Lavender,55,1,42,Unscented toys,110.4,0,0,0,68.7,4,100.8,142.3728
+43,Walter,ECB,N,Unscented toys,Lavender,22,1,43,Unscented toys,0,220.2,53.8,0,NA,4,0,66.6652
+44,Zara,CEB,N,Unscented toys,Lavender,5,1,44,Unscented toys,388.2,0,15.3,301.5,NA,3,0,15.14817
+1,Alexi,EBC,N,Unscented toys,Rabbit,2,1,1,Scented toys,311.5,59.9,118.9,190.4,0,7,153.8,268.3295
+2,Apples,ECB,N,Unscented toys,Rabbit,27,1,2,Scented toys,123.3,55.9,145.7,135.8,140.2,17,162.2,90.85562
+3,Bambam,EBC,N,Unscented toys,Rabbit,0,0,3,Scented toys,177.1,284.1,20.1,303.2,121.1,6,0,83.61526
+4,Bambi,BEC,P,Unscented toys,Rabbit,8,1,4,Scented toys,368.5,0,64.4,302.5,32.5,6,30.9,151.1731
+5,Barney,CEB,N,Unscented toys,Rabbit,28,1,5,Scented toys,62.9,0,20.5,160.4,61.4,4,257.1,492.215
+6,Barron,EBC,N,Unscented toys,Rabbit,7,1,6,Scented toys,147.5,87.4,160.6,122.7,77.2,0,25.1,605.2928
+7,Bella,CBE,N,Unscented toys,Rabbit,15,1,7,Scented toys,89.4,68.4,117.3,66.5,61.5,2,58.5,669.2892
+8,Ben,BEC,P,Unscented toys,Rabbit,14,1,8,Scented toys,167.1,0,64.5,0,3.2,10,212,574.8297
+9,Blossom,ECB,N,Unscented toys,Rabbit,0,0,9,Scented toys,0,11.1,190.5,0,89.4,7,464,259.3455
+10,Boily,EBC,N,Unscented toys,Rabbit,0,0,10,Scented toys,168.8,29.9,152.4,0,0,4,437.9,272.2661
+11,Bramble,BCE,P,Unscented toys,Rabbit,4,1,11,Scented toys,114,19.5,197.1,77.7,49.4,3,199.3,281.9758
+12,Buttons,EBC,N,Unscented toys,Rabbit,3,1,12,Scented toys,237.6,0,120.4,0,13.5,14,379.4,193.989516
+13,Charlie,CBE,N,Unscented toys,Rabbit,2,1,13,Scented toys,97.6,0,169,0,0,3,530.7,211.10693
+14,Cooper,BCE,P,Unscented toys,Rabbit,13,1,14,Scented toys,67.8,0,203.7,79.2,134.6,5,81,651.738
+15,Copper,ECB,N,Unscented toys,Rabbit,19,1,15,Scented toys,155.3,12,173.1,0,95.1,5,168.4,188.95137
+16,Diesel,BCE,P,Unscented toys,Rabbit,4,1,16,Scented toys,292.9,109.6,53.2,0,243,0,43.9,110.67509
+17,Foster,BEC,P,Unscented toys,Rabbit,5,1,17,Scented toys,0,387.4,124.4,0,0,1,445,67.69963
+18,Jeb,ECB,N,Unscented toys,Rabbit,0,0,18,Scented toys,200.5,0,197.8,67.1,16,0,20.2,408.3994
+19,Laddy,CEB,N,Unscented toys,Rabbit,0,0,19,Scented toys,0,559.3,52.2,0,121.8,4,42.9,73.77221
+20,Lexi,BCE,P,Unscented toys,Rabbit,1,1,20,Scented toys,0,0,35.3,0,0,2,14.8,42.00781
+21,Maisy,EBC,N,Unscented toys,Rabbit,0,0,21,Scented toys,0,0,70.6,0,53.1,1,147.7,78.61029
+22,Moon,ECB,N,Unscented toys,Rabbit,5,1,22,Scented toys,382.4,0,54.6,8.9,155.9,0,550.3,140.67107
+23,Mors,CEB,N,Unscented toys,Rabbit,5,1,23,Scented toys,59,0,78.8,0,492.1,0,555.8,114.726166
+24,Niki,BEC,P,Unscented toys,Rabbit,0,0,24,Scented toys,292.8,0,169,10,21.5,0,99.1,20.6536
+25,Olli,BCE,P,Unscented toys,Rabbit,2,1,25,Scented toys,463,0,37.3,397.4,210.2,0,50.9,122.4533
+26,Pickles,ECB,N,Unscented toys,Rabbit,0,0,26,Scented toys,190.3,0,215,92.9,284,0,143.4,433.8576
+27,Ricky,CBE,N,Unscented toys,Rabbit,22,1,27,Scented toys,144.1,12.1,105.6,130.1,717.6,2,57.6,360.4526
+28,Rocky,BEC,P,Unscented toys,Rabbit,0,0,28,Scented toys,121.9,542.1,101.7,107.1,717.6,1,0,473.5976
+29,Rolly,BEC,P,Unscented toys,Rabbit,5,1,29,Scented toys,0,0,0,0,286.7,4,0,4.17075
+30,Russel,BEC,P,Unscented toys,Rabbit,1,1,30,Scented toys,62.1,716.5,169,0,816.3,0,65,283.244
+31,Rusty,ECB,N,Unscented toys,Rabbit,0,0,31,Scented toys,25.9,0,163.1,266,54.1,2,75.6,271.3321
+32,Samson,CEB,N,Unscented toys,Rabbit,8,1,32,Scented toys,123.4,0,146.7,188.6,513.2,2,124.4,288.3492
+33,Sandy,BCE,P,Unscented toys,Rabbit,30,1,33,Scented toys,78.4,491.8,183,132.9,118.1,1,66.3,533.723
+34,Shaddow,ECB,N,Unscented toys,Rabbit,0,0,34,Scented toys,380,0,119.8,364.5,478.5,0,53.9,104.3355
+35,Snow,CBE,N,Unscented toys,Rabbit,0,0,35,Scented toys,259.9,0,40.9,408.6,361.4,NA,0,369.4284
+36,Star,BCE,P,Unscented toys,Rabbit,11,1,36,Scented toys,56.2,202.8,128.4,0,302.7,1,234.8,270.3652
+37,Stella,BCE,P,Unscented toys,Rabbit,138,1,37,Scented toys,232.5,0,33.5,0,332.1,1,78.1,335.395
+38,Sunny,EBC,N,Unscented toys,Rabbit,23,1,38,Scented toys,509.4,0,97.3,0,0,0,31,158.8555
+39,Suzie,BCE,P,Unscented toys,Rabbit,16,1,39,Scented toys,157.8,0,42.4,0,565.3,1,20.2,288.31571
+40,Timmy,ECB,N,Unscented toys,Rabbit,2,1,40,Scented toys,65.7,0,34.2,0,423.1,2,117.3,78.7104
+41,Tubs,CEB,N,Unscented toys,Rabbit,5,1,41,Scented toys,435.6,0,,251.6,55.6,0,245.2,96.99502
+42,Tyson,BCE,P,Unscented toys,Rabbit,42,1,42,Scented toys,76.8,0,10,162.4,55.6,3,34.8,681.7006
+43,Walter,ECB,N,Unscented toys,Rabbit,22,1,43,Scented toys,0,0,126.8,0,NA,1,0,145.4424
+44,Zara,CEB,N,Unscented toys,Rabbit,5,1,44,Scented toys,226.8,0,0,332.5,NA,1,29.1,105.86218
+1,Alexi,EBC,N,Scented toys,Control,18,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Apples,ECB,N,Scented toys,Control,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,Bambam,EBC,N,Scented toys,Control,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,Bambi,BEC,P,Scented toys,Control,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,Barney,CEB,N,Scented toys,Control,25,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,Barron,EBC,N,Scented toys,Control,54,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,Bella,CBE,N,Scented toys,Control,32,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,Ben,BEC,P,Scented toys,Control,31,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,Blossom,ECB,N,Scented toys,Control,12,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,Boily,EBC,N,Scented toys,Control,21,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,Bramble,BCE,P,Scented toys,Control,21,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,Buttons,EBC,N,Scented toys,Control,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,Charlie,CBE,N,Scented toys,Control,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,Cooper,BCE,P,Scented toys,Control,121,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,Copper,ECB,N,Scented toys,Control,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Diesel,BCE,P,Scented toys,Control,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Foster,BEC,P,Scented toys,Control,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Jeb,ECB,N,Scented toys,Control,27,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,Laddy,CEB,N,Scented toys,Control,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,Lexi,BCE,P,Scented toys,Control,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,Maisy,EBC,N,Scented toys,Control,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,Moon,ECB,N,Scented toys,Control,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,Mors,CEB,N,Scented toys,Control,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,Niki,BEC,P,Scented toys,Control,21,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,Olli,BCE,P,Scented toys,Control,9,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,Pickles,ECB,N,Scented toys,Control,44,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,Ricky,CBE,N,Scented toys,Control,46,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,Rocky,BEC,P,Scented toys,Control,59,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,Rolly,BEC,P,Scented toys,Control,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,Russel,BEC,P,Scented toys,Control,23,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,Rusty,ECB,N,Scented toys,Control,42,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,Samson,CEB,N,Scented toys,Control,43,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,Sandy,BCE,P,Scented toys,Control,17,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Shaddow,ECB,N,Scented toys,Control,27,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,Snow,CBE,N,Scented toys,Control,26,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,Star,BCE,P,Scented toys,Control,11,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,Stella,BCE,P,Scented toys,Control,86,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,Sunny,EBC,N,Scented toys,Control,27,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,Suzie,BCE,P,Scented toys,Control,43,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,Timmy,ECB,N,Scented toys,Control,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,Tubs,CEB,N,Scented toys,Control,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Tyson,BCE,P,Scented toys,Control,44,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,Walter,ECB,N,Scented toys,Control,28,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,Zara,CEB,N,Scented toys,Control,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Alexi,EBC,N,Scented toys,Lavender,176,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Apples,ECB,N,Scented toys,Lavender,58,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,Bambam,EBC,N,Scented toys,Lavender,19,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,Bambi,BEC,P,Scented toys,Lavender,98,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,Barney,CEB,N,Scented toys,Lavender,187,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,Barron,EBC,N,Scented toys,Lavender,270,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,Bella,CBE,N,Scented toys,Lavender,503,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,Ben,BEC,P,Scented toys,Lavender,310,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,Blossom,ECB,N,Scented toys,Lavender,151,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,Boily,EBC,N,Scented toys,Lavender,170,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,Bramble,BCE,P,Scented toys,Lavender,169,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,Buttons,EBC,N,Scented toys,Lavender,143,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,Charlie,CBE,N,Scented toys,Lavender,89,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,Cooper,BCE,P,Scented toys,Lavender,281,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,Copper,ECB,N,Scented toys,Lavender,73,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Diesel,BCE,P,Scented toys,Lavender,36,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Foster,BEC,P,Scented toys,Lavender,21,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Jeb,ECB,N,Scented toys,Lavender,304,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,Laddy,CEB,N,Scented toys,Lavender,34,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,Lexi,BCE,P,Scented toys,Lavender,12,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,Maisy,EBC,N,Scented toys,Lavender,45,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,Moon,ECB,N,Scented toys,Lavender,80,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,Mors,CEB,N,Scented toys,Lavender,85,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,Niki,BEC,P,Scented toys,Lavender,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,Olli,BCE,P,Scented toys,Lavender,85,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,Pickles,ECB,N,Scented toys,Lavender,216,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,Ricky,CBE,N,Scented toys,Lavender,217,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,Rocky,BEC,P,Scented toys,Lavender,238,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,Rolly,BEC,P,Scented toys,Lavender,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,Russel,BEC,P,Scented toys,Lavender,152,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,Rusty,ECB,N,Scented toys,Lavender,144,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,Samson,CEB,N,Scented toys,Lavender,122,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,Sandy,BCE,P,Scented toys,Lavender,63,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Shaddow,ECB,N,Scented toys,Lavender,20,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,Snow,CBE,N,Scented toys,Lavender,289,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,Star,BCE,P,Scented toys,Lavender,87,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,Stella,BCE,P,Scented toys,Lavender,109,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,Sunny,EBC,N,Scented toys,Lavender,90,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,Suzie,BCE,P,Scented toys,Lavender,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,Timmy,ECB,N,Scented toys,Lavender,20,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,Tubs,CEB,N,Scented toys,Lavender,39,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Tyson,BCE,P,Scented toys,Lavender,312,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,Walter,ECB,N,Scented toys,Lavender,60,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,Zara,CEB,N,Scented toys,Lavender,55,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Alexi,EBC,N,Scented toys,Rabbit,74,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Apples,ECB,N,Scented toys,Rabbit,30,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,Bambam,EBC,N,Scented toys,Rabbit,63,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,Bambi,BEC,P,Scented toys,Rabbit,53,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,Barney,CEB,N,Scented toys,Rabbit,280,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,Barron,EBC,N,Scented toys,Rabbit,281,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,Bella,CBE,N,Scented toys,Rabbit,135,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,Ben,BEC,P,Scented toys,Rabbit,234,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,Blossom,ECB,N,Scented toys,Rabbit,97,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,Boily,EBC,N,Scented toys,Rabbit,81,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,Bramble,BCE,P,Scented toys,Rabbit,92,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,Buttons,EBC,N,Scented toys,Rabbit,50,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,Charlie,CBE,N,Scented toys,Rabbit,114,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,Cooper,BCE,P,Scented toys,Rabbit,249,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,Copper,ECB,N,Scented toys,Rabbit,110,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Diesel,BCE,P,Scented toys,Rabbit,69,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Foster,BEC,P,Scented toys,Rabbit,43,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Jeb,ECB,N,Scented toys,Rabbit,77,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,Laddy,CEB,N,Scented toys,Rabbit,38,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,Lexi,BCE,P,Scented toys,Rabbit,25,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,Maisy,EBC,N,Scented toys,Rabbit,28,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,Moon,ECB,N,Scented toys,Rabbit,54,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,Mors,CEB,N,Scented toys,Rabbit,30,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,Niki,BEC,P,Scented toys,Rabbit,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,Olli,BCE,P,Scented toys,Rabbit,29,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,Pickles,ECB,N,Scented toys,Rabbit,175,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,Ricky,CBE,N,Scented toys,Rabbit,98,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,Rocky,BEC,P,Scented toys,Rabbit,177,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,Rolly,BEC,P,Scented toys,Rabbit,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,Russel,BEC,P,Scented toys,Rabbit,109,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,Rusty,ECB,N,Scented toys,Rabbit,85,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,Samson,CEB,N,Scented toys,Rabbit,123,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,Sandy,BCE,P,Scented toys,Rabbit,453,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Shaddow,ECB,N,Scented toys,Rabbit,58,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,Snow,CBE,N,Scented toys,Rabbit,54,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,Star,BCE,P,Scented toys,Rabbit,172,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,Stella,BCE,P,Scented toys,Rabbit,140,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,Sunny,EBC,N,Scented toys,Rabbit,42,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,Suzie,BCE,P,Scented toys,Rabbit,237,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,Timmy,ECB,N,Scented toys,Rabbit,59,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,Tubs,CEB,N,Scented toys,Rabbit,53,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Tyson,BCE,P,Scented toys,Rabbit,326,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,Walter,ECB,N,Scented toys,Rabbit,58,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,Zara,CEB,N,Scented toys,Rabbit,44,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

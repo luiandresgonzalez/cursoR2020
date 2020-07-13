@@ -1,0 +1,135 @@
+---
+title: "Clase 1 - Introduccion"
+output:
+  slidy_presentation:
+    highlight: tango
+  ioslides_presentation: default
+  beamer_presentation:
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Porqué R?
+
+ - Pros
+  - Reproducibilidad científica [Ver paper](https://www.sciencedirect.com/science/article/pii/S0168159119301868)
+  - Es lo que se está usando
+ - Contras
+  - Curva de aprendizaje
+
+
+# Porqué RStudio?
+
+ - Entorno integrado de desarrollo (IDE)
+  - Ayuda con la sintaxis
+  - Autocompletado
+  - Ayuda a mantener los paquetes
+  - Mejora la visualización de contenido
+
+# Algunas definiciones
+
+
+  - Objetos: Cualquier tipo de elemento con un nombre propio en R. Puede tomar varias formas
+    - estructuras datos
+    - funciones
+  - Estructuras de datos
+    - vectores, matrices, arrays, data frames y listas
+  - Valores
+    - Tipos ‘‘numeric’’, ‘‘character’’, and ‘‘logical’’.
+  - Operadores: simbolos que representan un computo simple (suma, concatenacion)
+  - Funciones
+  - Argumentos
+  
+# Comandos
+
+  - Los comandos en R son **sensibles a mayúsculas**
+
+```{r echo=TRUE, error=TRUE}
+Typeof("Hola")
+
+typeof("Hola")
+
+typeof(12)
+
+typeof(FALSE)
+```
+
+# Asignacion
+
+```{r  echo=TRUE}
+MiNombre <- "Luis"
+
+MiNombre
+
+MiEdad <- 18
+
+MiEdad.dias <- MiEdad * 365
+
+MiEdad.dias
+
+```
+
+
+
+# COVID 19, because why not?
+
+Sacar el simbolo "#"" para ejecutar la instalacion del paquete `covid19.analytics`
+
+```{r}
+# install.packages('covid19.analytics')
+```
+
+Para ver estadisticas ao vivo:
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+require('covid19.analytics')
+require('dplyr')
+
+```
+
+```{r echo=TRUE, cache=TRUE, message=FALSE}
+casos <- covid19.analytics::covid19.data()
+
+casos %>%
+  filter(Country_Region %in% c("Argentina","Paraguay")) %>%
+  select(Country_Region, Confirmed, Deaths, Recovered)
+```
+
+# COVID 19, because why not?
+
+```{r error=TRUE}
+data <- covid19.data("ts-confirmed")
+
+plot(growth.rate(data,geo.loc=c("Argentina","Chile")))
+```
+
+
+
+# DATA no es INFORMACIÓN
+
+## Los datos
+
+ - Scores corporales (1 a 20) de una muestra de pollos críados con el metodo orgánico vs el orgánico. n = 30
+ 
+```{r echo=TRUE}
+organico <- c(15, 12, 11, 18, 15, 15, 9, 19, 14, 13, 11, 12, 18, 15, 16, 14, 16, 17, 15, 17, 13, 14, 13, 15, 17, 19, 17, 18, 16, 14)
+convencional <- c(11, 16, 14, 18, 6, 8, 9, 14, 12, 12, 10, 15, 12, 9, 13, 16, 17, 12, 8, 7, 15, 5, 14, 13, 13, 12, 11, 13, 11, 7)
+
+```
+
+## Visualizando info
+
+```{r, echo=TRUE }
+hist(organico)
+hist(convencional)
+
+```
+
+## Prueba de hipótesis
+
+```{r, echo=TRUE}
+t.test(organico, convencional)
+```
+

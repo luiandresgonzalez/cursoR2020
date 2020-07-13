@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594054544573.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "89B2D58",
+    "lastKnownWriteTime" : 1594054516,
+    "last_content_update" : 1594054516,
+    "path" : "~/R working directory/murtaghetal/Murtaghetal2019v2rev.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "12,46",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
