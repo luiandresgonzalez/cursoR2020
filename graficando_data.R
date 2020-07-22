@@ -22,3 +22,4 @@ ggplot(data = dat) + aes(x = Period, y = Interactduration, fill = Scent) +
               aes(group= Scent)) +
   labs(y = "Duration of interaction with toy (s)") + 
   theme_minimal()
+
