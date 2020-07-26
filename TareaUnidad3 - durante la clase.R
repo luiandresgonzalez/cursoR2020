@@ -77,11 +77,28 @@ boxplot(porhora$n ~ porhora$hora)
 
 
 # ahora si
-boxplot(contactos_boti_triage_covid_19$triage_cantidad ~ contactos_boti_triage_covid_19$hora, outline = FALSE, ylab = "Llamadas", xlab = "Hora del dia")
+boxplot(contactos_boti_triage_covid_19$triage_cantidad ~ contactos_boti_triage_covid_19$hora, outline = FALSE, ylab = "Contactos", xlab = "Hora del dia")
 
 ?boxplot
 
+# LO QUE SIGUE ESTÁ MAL! Ver nota
+
 boxplot(contactos_boti_triage_covid_19$triage_cantidad ~ contactos_boti_triage_covid_19$fecha)
+
+# NOTA está representando mal la fecha porque es del tipo character y no una fecha en sí, hay que convertirlas a modo fecha con el siguiente codigo
+
+contactos_boti_triage_covid_19 <- contactos_boti_triage_covid_19 %>%
+  mutate(fecha = dmy(fecha))
+
+# ahora si corremos 
+
+str(contactos_boti_triage_covid_19)
+
+# la variable fecha tiene el formato apropiado. Si volvemos a graficar:
+
+boxplot(contactos_boti_triage_covid_19$triage_cantidad ~ contactos_boti_triage_covid_19$fecha)
+
+
 
 barplot(porhora$n ~ porhora$hora)
 
