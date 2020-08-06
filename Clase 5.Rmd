@@ -75,7 +75,7 @@ ggplot(data = trees) +
 ```
 
 
-**Cuidado que esta representacion o tiene al 0 como origen!** Despues veremos como resolver esta cuestión. 
+**Cuidado que esta representacion no tiene al 0 como origen!** Despues veremos como resolver esta cuestión. 
 
 Podemos maximizar la información de este grafico, mapeando la tercer variable, `Volume` en pies cubicos, a otra de las estéticas de los puntos, el parametro `color =`:
 
@@ -84,6 +84,15 @@ ggplot(data = trees) +
   geom_point(mapping = aes(x = Girth, y = Volume, color = Volume))
 ```
 
+# Agregado durante la clase
+ 
+Lo que hacemos a continuación es crear una linea de tendencia basada en un modelo lineal `lm` que hace la estadística por nosotros. Hasta donde sé, el lugar donde se definen las `aesthetics` no altera si lo hace en la funcion `ggplot()` o dentro de `geom_point()`. En los códigos que veo por ahi, usualmente están de esta manera. 
+
+```{r}
+ggplot(data = trees, aes(x = Girth, y = Volume)) + 
+  geom_point() + 
+  geom_smooth(method = "lm")
+```
 
 
 
