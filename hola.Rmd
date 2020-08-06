@@ -1,0 +1,32 @@
+---
+title: "Hola que tal"
+author: "Luis"
+date: "August 6, 2020"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Este es un titulo grande
+
+## Este es un subtitulo
+
+Aca escribis normal, sin nada!
+
+Para poner un codigo
+
+```{r}
+library(tidyverse)
+
+```
+
+Seguis escribiendo, lalala
+```{r}
+ggplot(data = trees) + 
+  geom_point(mapping = aes(x = Girth, y = Volume))
+```
+

@@ -1,0 +1,89 @@
+---
+title: "Clase 5 - El paquete GGPlot2"
+output:
+  html_notebook: default
+  pdf_document: default
+---
+
+
+Ggplot 2 es el paquete más avanzado en R. Utiliza la gramática de los gráficos y permite crear visualizaciones tan personalizadas como cuanto uno quiera. Pertenece al paquete tidiverse. 
+
+  * ReadR - Importa datos en diversos formatos, siendo el mejor ejemplo `read_csv()`
+  * Tibble - Crea una estructura de datos similar a la data frame que facilita la manipulacion de datos
+  * Permite filtrar resumir y manipular datos
+  * tidyr - Organiza datos en forma tidy
+
+Lo primero que debemos hacer es cargar la library, ya sea mediante invocando todo el `tidyverse` (recomendado) o unicamente `ggplot2`
+
+```{r echo=FALSE}
+library(tidyverse)
+```
+
+A continuacion vamos a realizar los graficos
+
+## Gramatica de graficos
+
+La gramatica de graficos es el andamiaje que permite cre
+ar y personalizar los graficos desde cero, proveyendo una fuente de datos. Los elementos más básicos de esta gramática son:
+
+  * La fuente de datos que uno va a utilizar (`data`)
+  * La forma que va a tomar los datos en la visualizacion, o su geometria (`geom`), por ejemplo puntos, líneas, barras. 
+  * Las propiedades esteticas (aesthetics) de las geometrias `aes` por ejemplo qué datos van en los ejes, representar un color para una variable, o el diametro de un punto para otra. O sea que no estamos diciendo que un punto sea rojo porque se lo decimos nosotros. Le estamos diciendo a ggplot que nos "mapee" una determinada variable a la propiedad color de un gráfico.
+  
+Otros elementos de la gramática son `scales`, ###, etc. 
+
+## Iniciando en ggplot2
+
+La primera visualizacion que vamos a realizar esta basada en la base de datos `iris` que contiene las medidas de tres especies del genero _Iris_: _setosa, virginica y versicolor_. Esto es tipo [Wikipedia](http://wikipedia.org)
+
+![**Flores de _Iris_**](iris.png)
+
+Una vez cargada la library, podemos ejecutar por primera vez el comando `ggplot` OJO SIN EL 2 AL FINAL! (si, es confuso para la mierda, pero bueno es lo que hay). Al ejecutarlo sin parametros, observamos que nos muestra un grafico totalmente en blanco. 
+
+```{r}
+ggplot()
+```
+
+
+Si ahora especificamos la fuente de los datos en el parametro `data =`:
+
+```{r}
+ggplot(data = iris)
+```
+
+Nuevamente no tenemos ninguna salida significativa. Creemos un grafico de puntos con los datos que tenemos, simplemente agregando mas informacion (naturalmetne, utilizando el signo "+") sobre la geometria que vamos a trabajar. En ggplot, todas las geometrias funcionan con el prefijo `geom_` asi que resulta fácil encontrarlas cuando las necesitemos. Para orientar a la funcion qué es lo que vamos a mapear en sus coordenadas, utilizaremos el parámetro `mapping =`, seguido de la funcion que define las propiedades esteticas del grafico `aes()`. 
+
+```{r}
+ggplot(data = iris) +
+  geom_point(mapping = aes(x = Species, y = Petal.Length))
+```
+
+
+Ahora continuamos con otra de las bases del paquete "nativo" (que ya viene preinstalado en R) `trees`. Veamos que contiene acudiendo a la ayuda.
+
+```{r, echo=TRUE}
+help("trees")
+```
+
+Sabremos entonces que la database tiene 3 variables: diametro, altura y volumen del cerecero negro. 
+
+Ahora vamos a continuar haciendo un scatterplot, utilizando la geometria point, siguiendo los mismos pasos que el caso anterior. 
+
+```{r}
+ggplot(data = trees) + 
+  geom_point(mapping = aes(x = Girth, y = Volume))
+```
+
+
+**Cuidado que esta representacion o tiene al 0 como origen!** Despues veremos como resolver esta cuestión. 
+
+Podemos maximizar la información de este grafico, mapeando la tercer variable, `Volume` en pies cubicos, a otra de las estéticas de los puntos, el parametro `color =`:
+
+```{r}
+ggplot(data = trees) + 
+  geom_point(mapping = aes(x = Girth, y = Volume, color = Volume))
+```
+
+
+
+
