@@ -1,9 +1,13 @@
 {
-    "path" : "~/R working directory/Curso de R - Proyecto",
+    "path" : "~/R working directory/cursoR2020",
     "sortOrder" : [
         {
-            "ascending" : false,
+            "ascending" : true,
             "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 4
         }
     ]
 }

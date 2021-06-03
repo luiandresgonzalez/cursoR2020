@@ -1,0 +1,18 @@
+---
+title: "Probando cosas nuevas con Slidy"
+author: "Luis"
+date: "September 12, 2020"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+```{r}
+curve(x^2, from = -5, to = 5y)
+```
+
+
